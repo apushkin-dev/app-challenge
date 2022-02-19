@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"allowSyntheticDefaultImports": true,
+		"experimentalDecorators": true,
+		"jsx": "react",
+		"isolatedModules": true,
+		"module": "es6",
+		"moduleResolution": "node",
+		"noImplicitAny": true,
+		"outDir": "./dist/",
+		"sourceMap": true,
+		"target": "es5",
+		"useDefineForClassFields": true
+	}
+}
